@@ -1,14 +1,14 @@
 title:              Khan
 email:              lgld1200@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        For my Jeju life
 author:             Start Bootstrap
 baseurl:            ""
 url:                "https://khan-cho.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+# twitter_username:   SBootstrap
+github_username:    khan-cho
+# facebook_username:  StartBootstrap
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
